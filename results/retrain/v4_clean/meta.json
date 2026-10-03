@@ -1,0 +1,9 @@
+{
+ "name": "v4_clean",
+ "data": "Dataset/another data/v4_pilot_clean.csv",
+ "sparse": "results/sparse/v4_pilot_clean_sparse.csv",
+ "leaky": false,
+ "runtime": "00:06:47",
+ "series": 147,
+ "errors": 0
+}

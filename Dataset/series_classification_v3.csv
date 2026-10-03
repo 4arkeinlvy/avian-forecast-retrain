@@ -1,0 +1,151 @@
+branch_id,sku_id,n_rows,tier,assigned_model
+11B,ABEM005KSW,337,FULL,tree + statistical models
+11B,ABEM020KPSW,85,LIMITED,MA-14
+11B,ACSY001KSB,244,FULL,tree + statistical models
+11B,ACSY001KSW,379,FULL,tree + statistical models
+11B,AGEM005KBA,87,LIMITED,MA-14
+11B,AGEM005KSW,580,FULL,tree + statistical models
+11B,AGEM020KPBA,67,LIMITED,MA-14
+11B,AGEM020KPSW,200,FULL,tree + statistical models
+11B,AREM005KSW,505,FULL,tree + statistical models
+11B,AREM020KPSW,417,FULL,tree + statistical models
+11B,AVAL021KPRP,256,FULL,tree + statistical models
+11B,AVEM005KBA,280,FULL,tree + statistical models
+11B,AVEM005KBB,140,FULL,tree + statistical models
+11B,AVEM005KSW,552,FULL,tree + statistical models
+11B,AVEM025KPBA,314,FULL,tree + statistical models
+11B,AVEM025KPSW,471,FULL,tree + statistical models
+11B,AVEX005KBA,209,FULL,tree + statistical models
+11B,AVEX025KPBA,177,FULL,tree + statistical models
+11B,AVGO005KBA,358,FULL,tree + statistical models
+11B,AVGO005KSW,159,FULL,tree + statistical models
+11B,AVGO025KPBA,350,FULL,tree + statistical models
+11B,AVGO025KPSW,184,FULL,tree + statistical models
+11B,AVSY001KSB,369,FULL,tree + statistical models
+11B,AVSY001KSW,533,FULL,tree + statistical models
+11B,AVWI005KBA,127,FULL,tree + statistical models
+11B,AVWI005KSW,466,FULL,tree + statistical models
+11B,AVWI020KPSW,57,LIMITED,MA-14
+11B,AVWI025KPBA,138,FULL,tree + statistical models
+11B,AVWI025KPSW,293,FULL,tree + statistical models
+11B,BOPL005K,0,MISSING,skip
+11B,BOPL025KP,0,MISSING,skip
+11B,GIMO020KP220,39,LIMITED,MA-14
+11B,GIMO020KP225,28,VERY_SPARSE,MA-14
+11B,GIMO040KP275,111,FULL,tree + statistical models
+11B,GIMO040KP380,240,FULL,tree + statistical models
+11B,GIMO040KP385,286,FULL,tree + statistical models
+11B,NODR001K002,572,FULL,tree + statistical models
+11B,NODR001K009,475,FULL,tree + statistical models
+11B,NODR004K002,551,FULL,tree + statistical models
+11B,NODR004K009,483,FULL,tree + statistical models
+11B,NODR004K010,343,FULL,tree + statistical models
+11B,NODR004KBA,230,FULL,tree + statistical models
+11B,NODR020KP002,474,FULL,tree + statistical models
+11B,NODR020KP009,570,FULL,tree + statistical models
+11B,NODR020KPBA,252,FULL,tree + statistical models
+11B,NODR020KPBB,184,FULL,tree + statistical models
+11B,NOPU004KBA,84,LIMITED,MA-14
+11B,NOPU020KPBA,94,FULL,tree + statistical models
+11B,SPAN020KPBA,236,FULL,tree + statistical models
+11B,YOSY001KSW,385,FULL,tree + statistical models
+12A,ABEM005KSW,354,FULL,tree + statistical models
+12A,ABEM020KPSW,139,FULL,tree + statistical models
+12A,ACSY001KSB,445,FULL,tree + statistical models
+12A,ACSY001KSW,483,FULL,tree + statistical models
+12A,AGEM005KBA,272,FULL,tree + statistical models
+12A,AGEM005KSW,507,FULL,tree + statistical models
+12A,AGEM020KPBA,177,FULL,tree + statistical models
+12A,AGEM020KPSW,254,FULL,tree + statistical models
+12A,AREM005KSW,488,FULL,tree + statistical models
+12A,AREM020KPSW,387,FULL,tree + statistical models
+12A,AVAL021KPRP,377,FULL,tree + statistical models
+12A,AVEM005KBA,396,FULL,tree + statistical models
+12A,AVEM005KBB,338,FULL,tree + statistical models
+12A,AVEM005KSW,554,FULL,tree + statistical models
+12A,AVEM025KPBA,406,FULL,tree + statistical models
+12A,AVEM025KPSW,513,FULL,tree + statistical models
+12A,AVEX005KBA,253,FULL,tree + statistical models
+12A,AVEX025KPBA,231,FULL,tree + statistical models
+12A,AVGO005KBA,445,FULL,tree + statistical models
+12A,AVGO005KSW,367,FULL,tree + statistical models
+12A,AVGO025KPBA,398,FULL,tree + statistical models
+12A,AVGO025KPSW,255,FULL,tree + statistical models
+12A,AVSY001KSB,484,FULL,tree + statistical models
+12A,AVSY001KSW,532,FULL,tree + statistical models
+12A,AVWI005KBA,284,FULL,tree + statistical models
+12A,AVWI005KSW,455,FULL,tree + statistical models
+12A,AVWI020KPSW,39,LIMITED,MA-14
+12A,AVWI025KPBA,240,FULL,tree + statistical models
+12A,AVWI025KPSW,401,FULL,tree + statistical models
+12A,BOPL005K,31,LIMITED,MA-14
+12A,BOPL025KP,4,VERY_SPARSE,MA-14
+12A,GIMO020KP220,75,LIMITED,MA-14
+12A,GIMO020KP225,2,VERY_SPARSE,MA-14
+12A,GIMO040KP275,114,FULL,tree + statistical models
+12A,GIMO040KP380,41,LIMITED,MA-14
+12A,GIMO040KP385,174,FULL,tree + statistical models
+12A,NODR001K002,579,FULL,tree + statistical models
+12A,NODR001K009,524,FULL,tree + statistical models
+12A,NODR004K002,578,FULL,tree + statistical models
+12A,NODR004K009,509,FULL,tree + statistical models
+12A,NODR004K010,458,FULL,tree + statistical models
+12A,NODR004KBA,371,FULL,tree + statistical models
+12A,NODR020KP002,480,FULL,tree + statistical models
+12A,NODR020KP009,353,FULL,tree + statistical models
+12A,NODR020KPBA,323,FULL,tree + statistical models
+12A,NODR020KPBB,386,FULL,tree + statistical models
+12A,NOPU004KBA,130,FULL,tree + statistical models
+12A,NOPU020KPBA,74,LIMITED,MA-14
+12A,SPAN020KPBA,254,FULL,tree + statistical models
+12A,YOSY001KSW,417,FULL,tree + statistical models
+11C,ABEM005KSW,377,FULL,tree + statistical models
+11C,ABEM020KPSW,143,FULL,tree + statistical models
+11C,ACSY001KSB,456,FULL,tree + statistical models
+11C,ACSY001KSW,521,FULL,tree + statistical models
+11C,AGEM005KBA,151,FULL,tree + statistical models
+11C,AGEM005KSW,364,FULL,tree + statistical models
+11C,AGEM020KPBA,97,FULL,tree + statistical models
+11C,AGEM020KPSW,201,FULL,tree + statistical models
+11C,AREM005KSW,477,FULL,tree + statistical models
+11C,AREM020KPSW,338,FULL,tree + statistical models
+11C,AVAL021KPRP,370,FULL,tree + statistical models
+11C,AVEM005KBA,458,FULL,tree + statistical models
+11C,AVEM005KBB,374,FULL,tree + statistical models
+11C,AVEM005KSW,553,FULL,tree + statistical models
+11C,AVEM025KPBA,422,FULL,tree + statistical models
+11C,AVEM025KPSW,496,FULL,tree + statistical models
+11C,AVEX005KBA,340,FULL,tree + statistical models
+11C,AVEX025KPBA,224,FULL,tree + statistical models
+11C,AVGO005KBA,368,FULL,tree + statistical models
+11C,AVGO005KSW,300,FULL,tree + statistical models
+11C,AVGO025KPBA,364,FULL,tree + statistical models
+11C,AVGO025KPSW,263,FULL,tree + statistical models
+11C,AVSY001KSB,512,FULL,tree + statistical models
+11C,AVSY001KSW,565,FULL,tree + statistical models
+11C,AVWI005KBA,242,FULL,tree + statistical models
+11C,AVWI005KSW,524,FULL,tree + statistical models
+11C,AVWI020KPSW,56,LIMITED,MA-14
+11C,AVWI025KPBA,252,FULL,tree + statistical models
+11C,AVWI025KPSW,402,FULL,tree + statistical models
+11C,BOPL005K,38,LIMITED,MA-14
+11C,BOPL025KP,0,MISSING,skip
+11C,GIMO020KP220,72,LIMITED,MA-14
+11C,GIMO020KP225,9,VERY_SPARSE,MA-14
+11C,GIMO040KP275,43,LIMITED,MA-14
+11C,GIMO040KP380,119,FULL,tree + statistical models
+11C,GIMO040KP385,239,FULL,tree + statistical models
+11C,NODR001K002,580,FULL,tree + statistical models
+11C,NODR001K009,567,FULL,tree + statistical models
+11C,NODR004K002,580,FULL,tree + statistical models
+11C,NODR004K009,559,FULL,tree + statistical models
+11C,NODR004K010,528,FULL,tree + statistical models
+11C,NODR004KBA,412,FULL,tree + statistical models
+11C,NODR020KP002,501,FULL,tree + statistical models
+11C,NODR020KP009,440,FULL,tree + statistical models
+11C,NODR020KPBA,330,FULL,tree + statistical models
+11C,NODR020KPBB,362,FULL,tree + statistical models
+11C,NOPU004KBA,181,FULL,tree + statistical models
+11C,NOPU020KPBA,134,FULL,tree + statistical models
+11C,SPAN020KPBA,290,FULL,tree + statistical models
+11C,YOSY001KSW,382,FULL,tree + statistical models

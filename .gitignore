@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.log
+
+# Generated outputs: only the leak-free retrain results are versioned.
+results/*
+!results/retrain/
+results/retrain/*/checkpoint.json
+results/retrain/tables/
+
+# Report (tables, figures, LaTeX) is kept outside the repository.
+docs/
+report_build.py
+
+.venv/

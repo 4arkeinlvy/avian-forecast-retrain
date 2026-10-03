@@ -1,0 +1,9 @@
+{
+ "name": "v5",
+ "data": "Dataset/another data/v5_pilot.csv",
+ "sparse": "results/sparse/v5_pilot_sparse.csv",
+ "leaky": false,
+ "runtime": "00:06:14",
+ "series": 147,
+ "errors": 0
+}

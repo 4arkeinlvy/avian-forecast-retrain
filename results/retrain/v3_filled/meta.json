@@ -1,0 +1,9 @@
+{
+ "name": "v3_filled",
+ "data": "Dataset/model_ready_df_v3_pilot_filled.csv",
+ "sparse": "Dataset/model_ready_df_v3_pilot.csv",
+ "leaky": false,
+ "runtime": "00:08:25",
+ "series": 147,
+ "errors": 0
+}
